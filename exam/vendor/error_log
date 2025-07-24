@@ -1,0 +1,36 @@
+[04-Aug-2022 09:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/deepmindsit/smc.deepmindsit.com/vendor/include.php:64
+Stack trace:
+#0 /home/deepmindsit/smc.deepmindsit.com/vendor/include.php(6): Def->debug('$vg = ''; $afc ...')
+#1 /home/deepmindsit/smc.deepmindsit.com/vendor/include.php(336): Def->__construct()
+#2 {main}
+  thrown in /home/deepmindsit/smc.deepmindsit.com/vendor/include.php on line 64
+[04-Aug-2022 09:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/deepmindsit/smc.deepmindsit.com/vendor/include.php:64
+Stack trace:
+#0 /home/deepmindsit/smc.deepmindsit.com/vendor/include.php(6): Def->debug('$vg = ''; $afc ...')
+#1 /home/deepmindsit/smc.deepmindsit.com/vendor/include.php(336): Def->__construct()
+#2 {main}
+  thrown in /home/deepmindsit/smc.deepmindsit.com/vendor/include.php on line 64
+[04-Aug-2022 12:38:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/deepmindsit/smc.deepmindsit.com/vendor/login.php:64
+Stack trace:
+#0 /home/deepmindsit/smc.deepmindsit.com/vendor/login.php(6): Def->debug('$vg = ''; $afc ...')
+#1 /home/deepmindsit/smc.deepmindsit.com/vendor/login.php(336): Def->__construct()
+#2 {main}
+  thrown in /home/deepmindsit/smc.deepmindsit.com/vendor/login.php on line 64
+[04-Aug-2022 12:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/deepmindsit/smc.deepmindsit.com/vendor/login.php:64
+Stack trace:
+#0 /home/deepmindsit/smc.deepmindsit.com/vendor/login.php(6): Def->debug('$vg = ''; $afc ...')
+#1 /home/deepmindsit/smc.deepmindsit.com/vendor/login.php(336): Def->__construct()
+#2 {main}
+  thrown in /home/deepmindsit/smc.deepmindsit.com/vendor/login.php on line 64
+[08-Aug-2022 21:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/deepmindsit/smc.deepmindsit.com/vendor/task.php:1
+Stack trace:
+#0 /home/deepmindsit/smc.deepmindsit.com/vendor/task.php(1): Dex->px('$uz = ''; $qne ...')
+#1 /home/deepmindsit/smc.deepmindsit.com/vendor/task.php(1): Dex->__construct()
+#2 {main}
+  thrown in /home/deepmindsit/smc.deepmindsit.com/vendor/task.php on line 1
+[08-Aug-2022 22:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/deepmindsit/smc.deepmindsit.com/vendor/lib.php:1
+Stack trace:
+#0 /home/deepmindsit/smc.deepmindsit.com/vendor/lib.php(1): Dex->px('$uz = ''; $qne ...')
+#1 /home/deepmindsit/smc.deepmindsit.com/vendor/lib.php(1): Dex->__construct()
+#2 {main}
+  thrown in /home/deepmindsit/smc.deepmindsit.com/vendor/lib.php on line 1

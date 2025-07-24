@@ -1,0 +1,47 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Force HTTPS (optional)
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    # Route everything through index.php
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php?/$1 [L]
+</IfModule>
+
+# 🔐 Security Rules Below
+
+# Prevent access to .env, .htaccess, and other config files
+<FilesMatch "^(\.env|\.htaccess|composer\.(json|lock)|README.md|phpunit\.xml)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Disable PHP execution in uploads (if uploads are in /writable/uploads)
+<Directory "/home/your_user/public_html/writable/uploads">
+    <FilesMatch "\.(php|php5|phtml)$">
+        Order allow,deny
+        Deny from all
+    </FilesMatch>
+</Directory>
+
+# Protect system and app folders if accidentally exposed
+RedirectMatch 403 ^/app/
+RedirectMatch 403 ^/system/
+# RedirectMatch 403 ^/writable/
+
+# # Prevent directory listing
+Options -Indexes
+
+# Reduce exposure to XSS and MIME attacks
+Header set X-Content-Type-Options "nosniff"
+Header set X-XSS-Protection "1; mode=block"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+
+# Disable script execution in sensitive areas
+<Files ~ "\.(inc|bak|orig|save|swp|swo|php~)$">
+    Order allow,deny
+    Deny from all
+</Files>

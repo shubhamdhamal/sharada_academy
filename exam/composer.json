@@ -1,0 +1,10 @@
+{
+    "require": {
+        "razorpay/razorpay": "2.*",
+        "gregwar/captcha": "1.*",
+        "claviska/simpleimage": "^3.6",
+        "ozdemirburak/iris": "^2.4",
+        "dompdf/dompdf": "^1.2",
+        "google/recaptcha": "^1.2"
+    }
+}

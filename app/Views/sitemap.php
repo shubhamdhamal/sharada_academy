@@ -1,0 +1,167 @@
+<?= '<?xml version="1.0" encoding="UTF-8" ?>' ?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sharadaacademy.com/</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/about-us</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/directors-desk</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/process</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/courses</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/faculty</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/gallery</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/contact-us</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/courses/jeemain-advanced</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/courses/neet</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/courses/mht-cet</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/courses/boards</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/courses/foundation</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/gallery/star-performers</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/gallery/our-campus</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/gallery/crash-course-2025</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/gallery/academy-add-2025</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/gallery/classroom</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/cracking-neet-2024-proven-tips-and-tricks-from-toppers</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/jee-2024-whats-new-a-guide-to-the-latest-examination-pattern</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/everything-you-need-to-know-about-mht-cet-in-2023</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/writable/uploads/brochure.pdf</loc>
+  <lastmod>2025-03-04T05:45:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/terms-and-conditions</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/return-refund-and-cancellation-policy</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/privacy-policy</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/everything-you-need-to-know-about-mht-cet-in-2023-1</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/neet-2024-updated-syllabus-for-physics-what-added-dropped-from-syllabus</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/neet-2024-updated-syllabus-for-biology-what-added-dropped-from-syllabus</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/neet-2024-updated-syllabus-for-chemistry-what-added-dropped-from-syllabus</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sharadaacademy.com/blog/updates-about-jee-main-2025</loc>
+  <lastmod>2025-07-19T04:37:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
